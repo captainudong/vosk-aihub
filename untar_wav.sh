@@ -1,0 +1,9 @@
+cd /home/ubuntu/vosk-api/training/train_data
+unzip [원천]01.AI챗봇_1.zip
+unzip [원천]01.AI챗봇_2.zip
+unzip [원천]01.AI챗봇_3.zip
+unzip [원천]01.AI챗봇_4.zip
+unzip [원천]01.AI챗봇_5.zip
+unzip [원천]01.AI챗봇_6.zip
+unzip [원천]01.AI챗봇_7.zip
+unzip [원천]01.AI챗봇_8.zip
